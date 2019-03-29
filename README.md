@@ -1,6 +1,6 @@
 # analise-anac
 
-Análise de dados sobre dados da ANAC.
+Análise sobre dados da ANAC.
 Fonte: http://www.anac.gov.br/assuntos/dados-e-estatisticas/historico-de-voos 
 
 $ sudo apt-get update
