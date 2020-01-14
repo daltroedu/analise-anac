@@ -4,7 +4,7 @@ Análise sobre dados da ANAC.
 
 Fonte: http://www.anac.gov.br/assuntos/dados-e-estatisticas/historico-de-voos 
 
-Para visualizar a análise abra o arquivo .html
+Para visualizar a análise execute o .html
 
 ```$ sudo apt-get update```
 
