@@ -1,10 +1,9 @@
 # analise-anac
 
-Análise sobre dados da ANAC.
-
+Análise sobre dados da ANAC utilizando Pandas. Para visualizar a análise, abra o .html
 Fonte: http://www.anac.gov.br/assuntos/dados-e-estatisticas/historico-de-voos 
 
-Para visualizar a análise execute o .html
+Executando:
 
 ```$ sudo apt-get update```
 
